@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be8b51e9-fe23-40e0-9c72-3e6dcf48525d" name="Changes" comment="add ReadME.md">
+    <list default="true" id="be8b51e9-fe23-40e0-9c72-3e6dcf48525d" name="Changes" comment="initial">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -47,9 +47,10 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
+        <env name="API_LAYER" value="3FMU6gphI91YFAsOrRXpcsuRzug2qrGk" />
         <env name="EEA1981_bot" value="6978132252:AAGQX5z6DPHAvG-20FG3qgEidoW5tqgHR6g" />
         <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="API_LAYER" value="3FMU6gphI91YFAsOrRXpcsuRzug2qrGk" />
+        <env name="API_GITHUB" value="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" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -106,12 +107,20 @@
       <option name="project" value="LOCAL" />
       <updated>1707131914935</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="initial">
+      <option name="closed" value="true" />
+      <created>1707132484265</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707132484265</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="initial" />
     <MESSAGE value="add ReadME.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ReadME.md" />
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
   </component>
 </project>
