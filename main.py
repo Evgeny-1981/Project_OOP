@@ -5,3 +5,4 @@ print(value)
 # или
 value = os.environ.get('API_LAYER')
 print(value)
+# 06022024
